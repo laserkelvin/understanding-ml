@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/laserkelvin/understanding-ml/master)
 
+![cover](cover.png)
+
 This is a Github repo where I develop toy experiments for understanding various
 aspects of machine learning. In each folder, I'll perform a self-contained
 experiment that explores either a method, concept, or property of machine
