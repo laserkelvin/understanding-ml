@@ -21,3 +21,15 @@ own website](https://laserkelvin.github.io), or on
 
 Please feel free to use the code in this repo for your own experiments, and
 contact me with any questions or comments! Forks/Issues/PRs are welcome!
+
+---
+
+_It seems like Binder's not working so well for for my `conda` environment!_
+
+For the time being, if you'd like to go beyond looking at the code, please
+use `conda_environment.yml` to create a local `conda` environment to be able to
+run the notebooks.
+
+In the meantime, `requirements.txt` may also be good enough to get the
+Binder environments working.
+
