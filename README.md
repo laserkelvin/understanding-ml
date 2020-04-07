@@ -1,6 +1,7 @@
 # Understanding ML
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/laserkelvin/understanding-ml/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laserkelvin/understanding-ml)]
 
 ![cover](cover.png)
 
